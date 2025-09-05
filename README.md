@@ -14,3 +14,7 @@ npm install
 ```bash
 npm run dev
 ```
+<img width="1066" height="833" alt="image" src="https://github.com/user-attachments/assets/146f2dee-efe6-44eb-bdde-9a97c46b6cd0" />
+<img width="1053" height="835" alt="image" src="https://github.com/user-attachments/assets/2fe06ead-62bb-4885-a82f-ff4cf07ba212" />
+
+
